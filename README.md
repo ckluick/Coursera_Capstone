@@ -1,10 +1,13 @@
 # Coursera_Capstone
 This is a repository for Capstone in Coursera.
 
-Introduction
+## 1. Introduction
 Driving is an essential activity for a lot of Americans. People may drive to work, or drive to buy grocery, or drive to visit friends and relatives and so on. However, traffic accidents may happen occasionally. Sometimes traffic accidents may lead to property damages. But sometimes traffic accidents may lead to bodily injuries and even fatalities.
+
 While the severities of traffic accidents vary a lot, it is helpful to identify some risk factors that may make traffic accidents relatively more severe. If the risk factors can be identified, it will be helpful to many people. The risk factors can be served as early warning signals to remind drivers that they should pay even more attention when they drive. If they drive more carefully, it can help the community as a whole to significantly reduce the traffic accidents and the severity of losses.
-Data
+
+## 2. Data
+
 In order to identify the potential risk factors that are correlated to severities of traffic accidents, I am going to use the collisions data published by the City of Seattle. There is an open data platform and the data is updated in a regular basis. Also, the source is the government so it can be considered as pretty reliable.
 According to the attribute information provided, the data set covers all types of collisions from 2004 until now. The data set provides a variety of information, including severity of the traffic accidents, location of the traffic accidents, light conditions during the accidents, whether the driver involved was under the influence of drugs or alcohol etc.
 Exploratory analysis / inferential statistical testing
